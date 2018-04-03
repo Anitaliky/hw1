@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/hgfs/VMWARE/hw1/input.cpp
+input.h
+/mnt/hgfs/VMWARE/hw1/input.h
+
+/mnt/hgfs/VMWARE/hw1/input.h
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+
+/mnt/hgfs/VMWARE/hw1/main.cpp
+iostream
+-
+input.h
+/mnt/hgfs/VMWARE/hw1/input.h
+

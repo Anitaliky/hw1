@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/hw1.dir/main.cpp.o CMakeFiles/hw1.dir/input.cpp.o CMakeFiles/hw1.dir/analysis.cpp.o CMakeFiles/hw1.dir/DataPreProcessing.cpp.o  -o hw1 
